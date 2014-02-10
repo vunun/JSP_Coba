@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Insert Data Kelas SMK Telkom Malang</title>
+        <title>Insert Data Kelas SMK Telkom</title>
         <link href="IMAGES/CarpeDiem.png" rel="shortcut icon" />
     </head>
     <body>
